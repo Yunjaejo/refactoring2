@@ -1,0 +1,19 @@
+{
+  "name": "refactoring2",
+  "version": "1.0.0",
+  "description": "## 리팩터링 2판 코드 구조를 체계적으로 개선하여 효율적인 리팩터링 구현하기",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yunjaejo/refactoring2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yunjaejo/refactoring2/issues"
+  },
+  "homepage": "https://github.com/Yunjaejo/refactoring2#readme"
+}
